@@ -5,7 +5,7 @@ author: Catalin Stochita <stochitacatalin@gmail.com>
 homepage: https://github.com/Stochita/youtube_api_v3
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.5.3"
 
 dependencies:
   flutter:
